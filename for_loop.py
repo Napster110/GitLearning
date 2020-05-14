@@ -3,3 +3,5 @@ for i in range(11):
         print(i)
 
 
+print("for loop done")
+print("hello chacha")
